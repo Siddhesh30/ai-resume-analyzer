@@ -16,7 +16,7 @@ An intelligent resume reviewer that parses your resume using NLP, scores it, and
 
 ## 🛠 Tech Stack
 
-- **React+Puter.js
+- React+Puter.js
 
 ## 📦 Installation
 
