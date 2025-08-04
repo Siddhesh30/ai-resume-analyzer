@@ -3,7 +3,8 @@
 An intelligent resume reviewer that parses your resume using NLP, scores it, and provides role-specific suggestions to help job seekers outsmart ATS algorithms.
 
 <img width="2936" height="1598" alt="image" src="https://github.com/user-attachments/assets/29b8fc75-3486-4dff-859c-56a95779868a" />
-** Live URL - <a href="https://ai-resume-analyzer-brown.vercel.app/">Visit Link</a>
+
+** Live URL - <a href="https://ai-resume-analyzer-brown.vercel.app/">ResuMind</a>
 
 ## 🚀 Features
 
